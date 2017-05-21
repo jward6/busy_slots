@@ -10,9 +10,8 @@ Input: Lists of dictionaries with a start and stop date time signaling the avail
 Output: integer of total number of 1-hour time slices
 
 Assumptions:
-
- 0 <= xn < yn <= 24
- yn <= xn+1
+*  0 <= xn < yn <= 24
+*  yn <= xn+1
 
 
 
